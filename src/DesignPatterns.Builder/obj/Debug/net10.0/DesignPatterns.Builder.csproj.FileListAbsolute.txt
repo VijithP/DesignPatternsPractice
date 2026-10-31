@@ -1,0 +1,14 @@
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\obj\Debug\net10.0\DesignPatterns.Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\obj\Debug\net10.0\DesignPatterns.Builder.AssemblyInfoInputs.cache
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\obj\Debug\net10.0\DesignPatterns.Builder.AssemblyInfo.cs
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\obj\Debug\net10.0\DesignPatterns.Builder.csproj.CoreCompileInputs.cache
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\bin\Debug\net10.0\DesignPatterns.Builder.exe
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\bin\Debug\net10.0\DesignPatterns.Builder.deps.json
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\bin\Debug\net10.0\DesignPatterns.Builder.runtimeconfig.json
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\bin\Debug\net10.0\DesignPatterns.Builder.dll
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\bin\Debug\net10.0\DesignPatterns.Builder.pdb
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\obj\Debug\net10.0\DesignPatterns.Builder.dll
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\obj\Debug\net10.0\refint\DesignPatterns.Builder.dll
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\obj\Debug\net10.0\DesignPatterns.Builder.pdb
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\obj\Debug\net10.0\DesignPatterns.Builder.genruntimeconfig.cache
+C:\MyProject\DesignPatternsPractice\src\DesignPatterns.Builder\obj\Debug\net10.0\ref\DesignPatterns.Builder.dll
