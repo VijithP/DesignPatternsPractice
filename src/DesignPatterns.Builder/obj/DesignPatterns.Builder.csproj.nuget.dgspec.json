@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProject\\DesignPatternsPractice\\src\\DesignPatterns.Builder\\DesignPatterns.Builder.csproj": {}
+    "c:\\MyProject\\DesignPatternsPractice\\src\\DesignPatterns.Builder\\DesignPatterns.Builder.csproj": {}
   },
   "projects": {
-    "C:\\MyProject\\DesignPatternsPractice\\src\\DesignPatterns.Builder\\DesignPatterns.Builder.csproj": {
+    "c:\\MyProject\\DesignPatternsPractice\\src\\DesignPatterns.Builder\\DesignPatterns.Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProject\\DesignPatternsPractice\\src\\DesignPatterns.Builder\\DesignPatterns.Builder.csproj",
+        "projectUniqueName": "c:\\MyProject\\DesignPatternsPractice\\src\\DesignPatterns.Builder\\DesignPatterns.Builder.csproj",
         "projectName": "DesignPatterns.Builder",
-        "projectPath": "C:\\MyProject\\DesignPatternsPractice\\src\\DesignPatterns.Builder\\DesignPatterns.Builder.csproj",
+        "projectPath": "c:\\MyProject\\DesignPatternsPractice\\src\\DesignPatterns.Builder\\DesignPatterns.Builder.csproj",
         "packagesPath": "C:\\Users\\vijith.pv\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProject\\DesignPatternsPractice\\src\\DesignPatterns.Builder\\obj\\",
+        "outputPath": "c:\\MyProject\\DesignPatternsPractice\\src\\DesignPatterns.Builder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
